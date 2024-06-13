@@ -12,21 +12,8 @@ Feed the Worm is a classic Snake game implemented using Pygame, a set of Python 
 - **Sound Effects**: Includes a sound effect when the worm eats an apple.
 - **Graphical Elements**: Custom graphics for the worm's head, body, and tail.
 
-## Requirements
 
-- Python 3.x
-- Pygame library
-
-## Installation
-
-1. **Install Python**: Make sure you have Python 3.x installed. You can download it from [python.org](https://www.python.org/).
-
-2. **Install Pygame**: Install the Pygame library using pip:
-    ```bash
-    pip install pygame
-    ```
-
-3. **Download the Project**: Clone or download the project files from the repository.
+ **Download the Project**: Clone or download the project files from the repository.
 
 ## Usage
 
@@ -74,6 +61,6 @@ This project is open source and available under the MIT License. Feel free to mo
 
 ## Contact
 
-For any questions or suggestions, please reach out to [Your Email] or open an issue on the project repository.
+For any questions or suggestions, please reach out to [herzallahmkh1620@gmail.com].
 
 Enjoy the game!
